@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application Tutorial</string>
+    <string name="needs">Needs</string>
+    <string name="hunger">Hunger</string>
+    <string name="comfort">Comfort</string>
+    <string name="bladder">Bladder</string>
+    <string name="energy">Energy</string>
+    <string name="fun">Fun</string>
+    <string name="social">Social</string>
+    <string name="hygiene">Hygiene</string>
+    <string name="environment">Environment</string>
+</resources>
