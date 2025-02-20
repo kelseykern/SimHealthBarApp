@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
                     val myEdit = sharedPreferences.edit()
                     myEdit.putInt(seek.id.toString(), seek.progress)
                     myEdit.apply()
-                    setColorSeek(seek);
+                    setColorSeek(seek)
                 }
             })
         }
